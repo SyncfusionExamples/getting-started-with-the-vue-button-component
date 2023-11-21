@@ -1,6 +1,8 @@
 # Getting Started with the Vue Button Component
 The [Vue Button](https://www.syncfusion.com/vue-components/vue-button?utm_source=github&utm_medium=listing&utm_campaign=vue-button-github-samples) is a custom HTML5 button component.A quick start Vue project that shows how to add the Vue Button component to a Vue application. It shows how to display and position icons in the Button. It also shows how to change the button types and customize the styles.
 
+## Project prerequisites
+
 Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
 
 ### How to run this application?
