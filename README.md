@@ -1,6 +1,9 @@
 # Getting Started with the Vue Button Component
 The [Vue Button](https://www.syncfusion.com/vue-components/vue-button?utm_source=github&utm_medium=listing&utm_campaign=vue-button-github-samples) is a custom HTML5 button component.A quick start Vue project that shows how to add the Vue Button component to a Vue application. It shows how to display and position icons in the Button. It also shows how to change the button types and customize the styles.
 
+Refer to the following documentation to learn about the Vue Button component: 
+https://ej2.syncfusion.com/vue/documentation/button/vue-3-getting-started
+
 ## Project prerequisites
 
 Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
@@ -14,13 +17,13 @@ To run this application, you need to clone the `getting-started-with-the-vue-but
 
 Users tend to perceive visual information more readily than text. To this end, an icon button has been designed to include an icon to the right or left of the button text or provide an icon-only button.
 
-### Built-in themes
+### Disable button
 
-The [Vue Button](https://www.syncfusion.com/vue-components/vue-button?utm_source=github&utm_medium=listing&utm_campaign=vue-button-github-samples) component supports built-in themes such as Bootstrap 5, Tailwind CSS, Fluent, high contrast, and more. Users can customize these built-in themes or create new themes to achieve the desired look and feel either by simply overriding SASS variables or using the Theme Studio application.
+The Vue disable button is used to indicate the inactive state of a button. It can be enabled or [disabled](https://helpej2.syncfusion.com/vue/documentation/api/button/#disabled?utm_source=github&utm_medium=listing&utm_campaign=vue-button-github-samples) by using the disabled property.
 
 ### Toggle button
 
-The [Vue Button](https://www.syncfusion.com/vue-components/vue-button?utm_source=github&utm_medium=listing&utm_campaign=vue-button-github-samples) component can be used as a toggle button to trigger two different actions based on its two states: pressed and released.
+The [Vue Button](https://www.syncfusion.com/vue-components/vue-button?utm_source=github&utm_medium=listing&utm_campaign=vue-button-github-samples) component can be used as a [toggle button](https://ej2.syncfusion.com/vue/documentation/button/types-and-styles#toggle-button?utm_source=github&utm_medium=listing&utm_campaign=vue-button-github-samples) to trigger two different actions based on its two states: pressed and released.
 
 ## Related links
 [Learn More about Vue Button](https://www.syncfusion.com/vue-components/vue-button?utm_source=github&utm_medium=listing&utm_campaign=vue-button-github-samples)
